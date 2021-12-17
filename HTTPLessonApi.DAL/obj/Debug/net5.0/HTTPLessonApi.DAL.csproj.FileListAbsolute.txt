@@ -1,0 +1,15 @@
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\bin\Debug\net5.0\HTTPLessonApi.DAL.deps.json
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\bin\Debug\net5.0\HTTPLessonApi.DAL.dll
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\bin\Debug\net5.0\ref\HTTPLessonApi.DAL.dll
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\bin\Debug\net5.0\HTTPLessonApi.DAL.pdb
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\bin\Debug\net5.0\HTTPLessonApi.Domain.dll
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\bin\Debug\net5.0\HTTPLessonApi.Domain.pdb
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.csproj.AssemblyReference.cache
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.AssemblyInfoInputs.cache
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.AssemblyInfo.cs
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.csproj.CopyComplete
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.dll
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\ref\HTTPLessonApi.DAL.dll
+C:\Users\leowa\Desktop\HTTPLessonApi\HTTPLessonApi.DAL\obj\Debug\net5.0\HTTPLessonApi.DAL.pdb
